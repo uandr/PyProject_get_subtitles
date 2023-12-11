@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lecturebot",
+  "private_key_id": "388c172bec98c267158409748277b9da99161523",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDSkHewKXz/IiG\n5nQ82WpiIblu4Abj/KiZHNa9L8DYcO4DYH/nCE05muOQJeMT+51KOqcUOSWgZg6y\nvgutywy+SoesB8sSD8u5qNrZkjxRyZGUFbi4/u9nAc0IUtu9cWR9EzmKzsua00Un\nsPZP370xD+Sa+an9rYVqmtV6x9R52oR/BBc4vwDd2YzqwCYVeVpHfUVcePUuElVb\nGHimKi8Qp1n7/Ysl4OUTx3CwI0bgYTv4BlRGbm2WqqfoalRXs5KMQ1XYWyzTcjq2\nE1cubrl1EpCo89aJZxpoIls4Eiz6zRCBksHGxa1+nIkPzEiBglkfniORh73r1B2q\nXOWGcA39AgMBAAECggEADcAgRDVvWe8Zk9oNLC2o0nEKc/adNZdYLbO8oQSIQRUu\nhRlZ2CQa/+fahw9L3l/UkuHvWrqtXg5hkY9VFi8aXhm0VNYVo9dt4kwz4KbtzVpy\ngClJYOk+ZRPY4nGnHD8sMqxUXGQ0LNocX++TYEtiMF6sm4bhw8VghAGT73m7ibrL\n6JS4brtIEPKoL31xnO3jmfgxWsaawvG7UajC48am0Y2u2v7UlCXMDyj9Q2hikBXT\ngj2hqnG0HtPcDkrSIvpWgwTqN4wmytB2iaIDDFNSkvPjPEubWTXQ/64NGFamHaLB\nVVrraehEBbqKYSXdcw1+J2KhdcJLS2S+hpY0g4G5oQKBgQD85D0gIIfqwO1e5h1F\npi8ouszJV10ghgUVwc+d/8WpQrb+RwrPNOMsi6cM2sQv/7cvEmIZq+0OgJtwN/8z\n2UYO5dMLKknR+FwT+BDKT0rqxP/cyR98ow2NbijD937VxWqiy5tulN6E0i13Manv\nomRwtrrfRJFfc4sgPZrvoJ2isQKBgQDFsMRNMrGXavd9XseY0hEpQ3iEgn1bkxTq\n3P18R/C1ZIETaPYyhntIP4EJIkE3aquSHz81vr1Bbov+EUnmZH5aKTr+H5TmhZTz\n8otRzB5K/0TfFLxggwIwqZXpHXj90Z2f4kdH1Om+EwIF7fyzTdpMG/PkDbtdrsoX\nEJG+xPA7DQKBgGixKCjzrrDdm6cMxpN938oRwxObKj97nAFM0eGL8E1JBC6yRGRR\ndbaMPeTRcCSazUAccSZFiYbWcQL8+5aAXUNvm3Xk1Niq45uUt4a5Wr9kPLQvQuy7\nJ7IkJ5YxEH35E1M/zSHzWUdNJ2tP0RUWelQ7IZOqdDA6yh7Xwhtvt7KRAoGBAJYN\n66KxNO27CqpF0/kiklYg2YyzQ5XL2ZfAMEQykvoMlJD4HdASFeesFDSrpJb8x8g9\nIYyZACx3TZmG4/IWG3YyT43uyOYFRR+53Zgz+FZy1oMByU70gigPwTNV5K28ewmO\nBw72BIn7AZEgqKwtDuKwYPqclbixYMILGKWV9MbNAoGBAK3ex0yUokZinaINKDhX\nS+DW4yliTOov5kZ1ohmu3Jf3TxnYrCRFax4rO//khrWtdF99YBI4/zqmbJpITdaf\n0r9jEVkSt93W7EKde+pgBJCIOaKF8/JWyibEMzwzdrrX9tFojo6D9/FRRUXAxThf\nag2NKcpPxp3jlXEW6DFcvNUa\n-----END PRIVATE KEY-----\n",
+  "client_email": "lecturebot@lecturebot.iam.gserviceaccount.com",
+  "client_id": "103454564996752692768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lecturebot%40lecturebot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
